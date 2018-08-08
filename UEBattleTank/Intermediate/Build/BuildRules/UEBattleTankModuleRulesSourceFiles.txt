@@ -1,0 +1,3 @@
+/Users/eformula/Desktop/Farid/ue-battle-tank/UEBattleTank/Source/UEBattleTank/UEBattleTank.Build.cs
+/Users/eformula/Desktop/Farid/ue-battle-tank/UEBattleTank/Source/UEBattleTank.Target.cs
+/Users/eformula/Desktop/Farid/ue-battle-tank/UEBattleTank/Source/UEBattleTankEditor.Target.cs
